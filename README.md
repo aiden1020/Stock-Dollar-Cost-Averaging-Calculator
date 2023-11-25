@@ -12,14 +12,17 @@ This is a simple Dollar Cost Averaging (DCA) calculator implemented using Python
 
 ## Getting Started
 
-1. **Prerequisites:**
+1. **Clone File**
+    - Run
+    - `git clone https://github.com/aiden1020/Stock-Dollar-Cost-Averaging-Calculator.git`
+2. **Prerequisites:**
    - Ensure you have Python installed on your system.
-   - Install required packages by running: `pip install pandas pandas_datareader matplotlib yfinance`
+   - `pip install -r requirement.txt`
 
-2. **Run the Application:**
-   - Execute the script using the command: `python dollar_cost_avg_calculator.py`
+3. **Run the Application:**
+   - Execute the script using the command: `python3 dollar_cost_avg_calculator.py`
 
-3. **Usage:**
+4. **Usage:**
    - Input the stock symbol, time interval (1, 3, or 5 years), and monthly investment.
    - Click "Add to graph" to see the performance graph.
    - Use the "+" button to add more stocks for comparison.
