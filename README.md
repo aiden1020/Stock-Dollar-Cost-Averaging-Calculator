@@ -40,16 +40,3 @@ This is a simple Dollar Cost Averaging (DCA) calculator implemented using Python
 - **Table View:**
    - The application includes a Treeview widget displaying a summary table of stocks, costs, profits, and return on investment (ROI).
 
-## Contributing
-
-If you'd like to contribute or report issues, feel free to submit a pull request or open an issue.
-
-## License
-
-This Dollar Cost Averaging Calculator is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-Special thanks to the contributors of the libraries used in this project: Tkinter, Matplotlib, yfinance and pandas.
-
---- 
